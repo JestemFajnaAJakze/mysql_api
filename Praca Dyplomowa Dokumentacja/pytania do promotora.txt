@@ -1,0 +1,33 @@
+
+Rodzia³ 1 
+-czy moze byc? 
+-Czy dopisac cos? Wiecej teorii?
+-czy s³ownik pojec jest potrzebny?
+-czy takie przypisy wystarcz¹
+Rozdzia³ 2 
+-czy mam opisywac te technologie co to java, co to android studio, 
+-moze dodac cos o androidzie?
+-czemu tak ma³o tekstu wyszlo?
+Rozdzia³ 3 
+-czy i gdzie umieœciæ jakieœ wyraŸne WYMAGANIA - funkcjonalne i niefunkcjonalne(tez zarys jest zrobiony na fb)
+-jak ma wygladac w koncu diagram przypadkow uzycia
+-czy opisywaæ wszystkie scenariusze czy tylko najwa¿niejsze
+-czy diagramy aktywnosci wszystkie czy tylko te co wybrane scenariusze
+-jakie diagramy zawrzeæ w projekcie, które wg Pana s¹ niezbêdne
+Rodzia³ 4 
+-co dalej opisaæ po krótce funkcjonalnoœci na podstawie fragmentów implementacji ktore zrealizowa³em?
+-testy to testy jednostkowe, funkcjonalne(jezeli funkcjonalne to ile scenariuszy?)
+
+
+DO DIAGRAMU USE CASE
+czy funkcjonalnoœæ oceny wykonanego testu jest wymagana skoro to jest test zamkniety, a odpowiedzi maja zdefiniowane czy sa prawdziwe czy bledne w momencie dodania pytania do bazy czy wynik testu ma byc od razu wyswietlany i przekazany do nauczyciela czy moze ma nie byc podawany do momentu gdy nauczyciel zobaczy wynik testu i przekaze go spowrotem
+
+
+Wymagania niefunkcjonalne systemu
+•	Kompatybilnoœæ z wiêkszoœci¹ wersji systemów operacyjnych Android;
+•	Dane powinny byæ przechowywane na serwerze relacyjnej bazy danych;
+•	System powinien umo¿liwiaæ dostêp do us³ug jednoczeœnie w tym samym czasie wielu u¿ytkownikom;
+•	Sta³y dostêp do Internetu;
+•	Sprawnoœæ systemu 24h na dobê;
+•	D³ugoœæ has³a musi wynosiæ co najmniej 8 znaków oraz co najmniej jedna wielk¹ literê;
+•	Email jest unikatowy w skali ca³ego systemu.
